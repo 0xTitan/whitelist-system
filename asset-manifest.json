@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/whitelist-system-with-heroku/static/css/main.b100e6da.chunk.css",
-    "main.js": "/whitelist-system-with-heroku/static/js/main.723676d6.chunk.js",
-    "main.js.map": "/whitelist-system-with-heroku/static/js/main.723676d6.chunk.js.map",
-    "runtime-main.js": "/whitelist-system-with-heroku/static/js/runtime-main.ee23909a.js",
-    "runtime-main.js.map": "/whitelist-system-with-heroku/static/js/runtime-main.ee23909a.js.map",
-    "static/css/2.9ff99f11.chunk.css": "/whitelist-system-with-heroku/static/css/2.9ff99f11.chunk.css",
-    "static/js/2.7811c71d.chunk.js": "/whitelist-system-with-heroku/static/js/2.7811c71d.chunk.js",
-    "static/js/2.7811c71d.chunk.js.map": "/whitelist-system-with-heroku/static/js/2.7811c71d.chunk.js.map",
-    "index.html": "/whitelist-system-with-heroku/index.html",
-    "precache-manifest.1f6ac718edcf72e1c0730aeae8c9c622.js": "/whitelist-system-with-heroku/precache-manifest.1f6ac718edcf72e1c0730aeae8c9c622.js",
-    "service-worker.js": "/whitelist-system-with-heroku/service-worker.js",
-    "static/css/2.9ff99f11.chunk.css.map": "/whitelist-system-with-heroku/static/css/2.9ff99f11.chunk.css.map",
-    "static/css/main.b100e6da.chunk.css.map": "/whitelist-system-with-heroku/static/css/main.b100e6da.chunk.css.map"
+    "main.css": "/whitelist-system/static/css/main.b100e6da.chunk.css",
+    "main.js": "/whitelist-system/static/js/main.723676d6.chunk.js",
+    "main.js.map": "/whitelist-system/static/js/main.723676d6.chunk.js.map",
+    "runtime-main.js": "/whitelist-system/static/js/runtime-main.ee23909a.js",
+    "runtime-main.js.map": "/whitelist-system/static/js/runtime-main.ee23909a.js.map",
+    "static/css/2.9ff99f11.chunk.css": "/whitelist-system/static/css/2.9ff99f11.chunk.css",
+    "static/js/2.7811c71d.chunk.js": "/whitelist-system/static/js/2.7811c71d.chunk.js",
+    "static/js/2.7811c71d.chunk.js.map": "/whitelist-system/static/js/2.7811c71d.chunk.js.map",
+    "index.html": "/whitelist-system/index.html",
+    "precache-manifest.1f6ac718edcf72e1c0730aeae8c9c622.js": "/whitelist-system/precache-manifest.1f6ac718edcf72e1c0730aeae8c9c622.js",
+    "service-worker.js": "/whitelist-system/service-worker.js",
+    "static/css/2.9ff99f11.chunk.css.map": "/whitelist-system/static/css/2.9ff99f11.chunk.css.map",
+    "static/css/main.b100e6da.chunk.css.map": "/whitelist-system/static/css/main.b100e6da.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.ee23909a.js",
